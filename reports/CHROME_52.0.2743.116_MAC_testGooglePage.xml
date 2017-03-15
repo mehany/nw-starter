@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="testGooglePage"
+    errors="0" failures="1" hostname="" id="" package="testGooglePage" skipped="0"
+    tests="1" time="6.609" timestamp="Thu, 25 Aug 2016 05:17:42 GMT">
+  
+    <testcase name="Demo test Google" time="6.609" assertions="4">
+
+    
+
+      <failure message="Testing if element &lt;.btn.btn-info.btn-lg&gt; contains text: &quot;Start A Project&quot;.">    at Object.module.exports.Demo test Google (/Users/emehany/Code/development-server/playground/nightwatch-experiment/tests/testGooglePage.js:10:15)</failure>
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

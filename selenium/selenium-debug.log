@@ -1,0 +1,43 @@
+22:17:42.309 INFO - Launching a standalone Selenium Server
+22:17:42.338 INFO - Java: Oracle Corporation 24.80-b11
+22:17:42.338 INFO - OS: Mac OS X 10.11.5 x86_64
+22:17:42.347 INFO - v2.50.1, with Core v2.50.1. Built from revision d7fc91b
+22:17:42.402 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{platform=WINDOWS, ensureCleanSession=true, browserName=internet explorer, version=}] does not match the current platform MAC
+22:17:42.402 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{platform=WINDOWS, browserName=MicrosoftEdge, version=}] does not match the current platform MAC
+22:17:42.403 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+22:17:42.403 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+22:17:42.459 INFO - RemoteWebDriver instances should connect to: http://127.0.0.1:4444/wd/hub
+22:17:42.459 INFO - Selenium Server is up and running
+22:17:42.684 INFO - Executing: [new session: Capabilities [{platform=ANY, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, name=Test Google Page, chromeOptions={args=[]}}]])
+22:17:42.691 INFO - Creating a new session for Capabilities [{platform=ANY, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, name=Test Google Page, chromeOptions={args=[]}}]
+Starting ChromeDriver 2.23.409710 (0c4084804897ac45b5ff65a690ec6583b97225c0) on port 42306
+Only local connections are allowed.
+22:17:43.570 INFO - Done: [new session: Capabilities [{platform=ANY, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, name=Test Google Page, chromeOptions={args=[]}}]]
+22:17:43.583 INFO - Executing: [get: https://mehany.io])
+22:17:44.965 INFO - Done: [get: https://mehany.io]
+22:17:44.972 INFO - Executing: [find elements: By.cssSelector: body])
+22:17:45.003 INFO - Done: [find elements: By.cssSelector: body]
+22:17:45.007 INFO - Executing: [is displayed: 0 [[ChromeDriver: chrome on MAC (5c5edf9ae883ab1f8ff6ccccb00edc37)] -> css selector: body]])
+22:17:45.019 INFO - Done: [is displayed: 0 [[ChromeDriver: chrome on MAC (5c5edf9ae883ab1f8ff6ccccb00edc37)] -> css selector: body]]
+22:17:45.024 INFO - Executing: [find elements: By.cssSelector: .btn.btn-info.btn-lg])
+22:17:45.037 INFO - Done: [find elements: By.cssSelector: .btn.btn-info.btn-lg]
+22:17:45.543 INFO - Executing: [find elements: By.cssSelector: .btn.btn-info.btn-lg])
+22:17:45.554 INFO - Done: [find elements: By.cssSelector: .btn.btn-info.btn-lg]
+22:17:45.557 INFO - Executing: [is displayed: 1 [[ChromeDriver: chrome on MAC (5c5edf9ae883ab1f8ff6ccccb00edc37)] -> css selector: .btn.btn-info.btn-lg]])
+22:17:45.570 INFO - Done: [is displayed: 1 [[ChromeDriver: chrome on MAC (5c5edf9ae883ab1f8ff6ccccb00edc37)] -> css selector: .btn.btn-info.btn-lg]]
+22:17:48.587 INFO - Executing: [find element: By.cssSelector: .btn.btn-info.btn-lg])
+22:17:48.601 INFO - Done: [find element: By.cssSelector: .btn.btn-info.btn-lg]
+22:17:48.604 INFO - Executing: [get text: 1 [[ChromeDriver: chrome on MAC (5c5edf9ae883ab1f8ff6ccccb00edc37)] -> css selector: .btn.btn-info.btn-lg]])
+22:17:48.620 INFO - Done: [get text: 1 [[ChromeDriver: chrome on MAC (5c5edf9ae883ab1f8ff6ccccb00edc37)] -> css selector: .btn.btn-info.btn-lg]]
+22:17:48.626 INFO - Executing: [find elements: By.cssSelector: .baby])
+22:17:48.639 INFO - Done: [find elements: By.cssSelector: .baby]
+22:17:48.642 INFO - Executing: [is displayed: 2 [[ChromeDriver: chrome on MAC (5c5edf9ae883ab1f8ff6ccccb00edc37)] -> css selector: .baby]])
+22:17:48.652 INFO - Done: [is displayed: 2 [[ChromeDriver: chrome on MAC (5c5edf9ae883ab1f8ff6ccccb00edc37)] -> css selector: .baby]]
+22:17:48.655 INFO - Executing: org.openqa.selenium.remote.server.handler.GetSessionCapabilities@76a9c2c9)
+22:17:48.655 INFO - Done: org.openqa.selenium.remote.server.handler.GetSessionCapabilities@76a9c2c9
+22:17:48.678 INFO - Executing: [take screenshot])
+22:17:49.025 INFO - Done: [take screenshot]
+22:17:49.050 INFO - Executing: [delete session: d98205cc-6265-4edf-be5b-352cc2df2138])
+22:17:49.124 INFO - Done: [delete session: d98205cc-6265-4edf-be5b-352cc2df2138]
